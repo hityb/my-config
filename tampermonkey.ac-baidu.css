@@ -1,0 +1,10 @@
+/*bing搜索样式优化*/
+#b_header{
+    width: 998px!important;
+}
+#b_header #sb_form{
+    margin-left: 0!important;
+}
+#b_wpt_container{
+    width: 998px!important;
+}
